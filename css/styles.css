@@ -120,14 +120,14 @@ position: relative;
 
 .top-cloud{
   position: absolute;
-  right: 100px;
+  right: 50px;
   top: 50px;
   width: 150px;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 100px;
+  left: 50px;
   bottom: 15%;
   width: 150px;
 }
